@@ -1,0 +1,6 @@
+---
+AllowShortLoopsOnASingleLine: true
+ColumnLimit: 0
+IndentWidth: 4
+PointerAlignment: Left
+SortIncludes: Never

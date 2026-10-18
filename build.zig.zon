@@ -1,0 +1,19 @@
+.{
+    .name = .libqt6c_examples_qml,
+    .version = "6.8.2",
+    .fingerprint = 0x4f77029c6105d140,
+    .dependencies = .{
+        .libqt6c = .{
+            .url = "git+https://github.com/rcalixte/libqt6c#3d9f2ca00d3e5168fac497e8625ee894300c2b23",
+            .hash = "libqt6c-6.8.2-DLhhNm-daBNsW9t-t4GkVFZLyeSdyBVhQ4gdowDfBc3J",
+        },
+    },
+    .paths = .{
+        "LICENSE",
+        "README.md",
+        "assets",
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
